@@ -1,0 +1,55 @@
+.contact{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex: 1;
+  border: solid white 1px;
+  margin:30px;
+  padding: 30px;
+  border-radius: 5px;
+  width: 200px;
+}
+li{
+  list-style: none;
+}
+.allcontact{
+  display: flex;
+flex-wrap: wrap;
+margin:30px 200px;
+justify-content: center;
+
+}
+
+.email{
+padding:15px 0;
+}
+.butt{
+  padding: 20px 40px;
+  border-radius: 5px;
+  background-color: white;
+position: absolute;
+top:50px;
+left:630px
+}
+.mybutt{
+  display: flex;
+}
+.button{
+  margin :15px;
+  padding :15px 25px;
+  border-radius: 5px;
+  background-color: white;
+}
+body{
+  background-color: #242526;
+  color: white;
+}
+.main{
+  position: relative;
+}
+.contact0{
+  margin-top: 180px;
+}
+.contact1{
+  margin-top: 180px;
+}
